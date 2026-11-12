@@ -1,0 +1,19 @@
+# 私人账单数据，禁止提交
+/*账单*.csv
+/bill_audit_report.md
+/demo_bill.csv
+
+# 运行时状态
+.agent_state/
+__pycache__/
+*.pyc
+
+# 系统与编辑器
+.DS_Store
+.idea/
+.vscode/
+
+# 凭据（兜底，任何情况下都不要提交密钥）
+*.token
+*.key
+.env
